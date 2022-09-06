@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CAHC2509 (Carlos Holguin)
+- 👋 Hi, I’m @CAHC2509 (Carlos A. Holguin)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSS and JS coming soon
 
